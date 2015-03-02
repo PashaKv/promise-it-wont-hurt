@@ -1,0 +1,22 @@
+{
+  "name": "piwh",
+  "version": "1.0.0",
+  "description": "piwh-solutions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PashaKv/promise-it-wont-hurt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PashaKv/promise-it-wont-hurt/issues"
+  },
+  "homepage": "https://github.com/PashaKv/promise-it-wont-hurt",
+  "dependencies": {
+    "q": "^1.2.0"
+  }
+}
